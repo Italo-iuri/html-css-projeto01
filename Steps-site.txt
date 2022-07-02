@@ -1,0 +1,9 @@
+:root {
+    Aqui pode criar as variais para as fontes, cores
+    ex.:
+    --corHeader: #fff;
+    --corBody: #000;
+}
+escolher a fonte 
+escolher um layout
+definir cores 
